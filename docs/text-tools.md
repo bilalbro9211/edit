@@ -620,3 +620,4 @@
 * [FontGen](https://fontgen.cool/)
 * [FontGenerator.cool](https://fontgenerator.cool/)
 * [Fancy Text Decorator](https://fancytextdecorator.com/)
+* [Aura Fonts](https://aurafonts.com/)
